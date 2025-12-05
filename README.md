@@ -41,7 +41,8 @@ This repository contains a **UiPath automation workflow** that demonstrates how 
 
 ## OUTPUT
 
-<img width="3840" height="2160" alt="Screenshot 2025-10-10 184725" src="https://github.com/user-attachments/assets/b5625b15-3e14-4fcc-a5af-0eb534a6a372" />
 
+<img width="503" height="738" alt="capstone" src="https://github.com/user-attachments/assets/a050c49d-b1e8-4ba8-9630-90c3cd847357" />
 
+<img width="739" height="162" alt="capstone1" src="https://github.com/user-attachments/assets/3e882846-5ebb-46dd-9f75-f8b286514b4f" />
 
